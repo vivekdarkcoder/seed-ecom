@@ -1,0 +1,9 @@
+{
+  "short_name": "SeedsCraft",
+  "name": "SeedsCraft - Vegetable Seeds Store",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2d6a4f",
+  "background_color": "#f8fdf9"
+}
